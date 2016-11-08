@@ -1,0 +1,51 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #e5e6e6;
+}
+
+.wrapper {
+  background: white;
+  width: 800px;
+  margin: 0 auto;
+  border-left: 3px solid #e3e3e3;
+  border-right: 3px solid #e3e3e3;
+  border-bottom: 3px solid #e3e3e3;
+  border-top: 3px solid #e3e3e3;
+  padding: 30px 80px;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+#table1 {
+  width: 100%
+}
+
+#table2 {
+  margin: auto;
+  width: 65%;
+}
+
+#table3 {
+	text-align: left;
+	vertical-align: 1px;
+	margin: auto;
+	width: 65%;
+}
+
+.col1 {
+    width: 50%;
+   }
+.col2 {
+	width: 30%;
+}
+
+.col3 {
+	width: 20%;
+}
+
+.bold {
+  font-weight: bold 
+}

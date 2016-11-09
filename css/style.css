@@ -25,14 +25,22 @@ table, th, td {
 
 #table2 {
   margin: auto;
+  margin-bottom: 20px;
   width: 65%;
 }
 
 #table3 {
+	border-spacing: 0.5px;
+	border="1"
 	text-align: left;
 	vertical-align: 1px;
 	margin: auto;
+	margin-bottom: 20px;
 	width: 65%;
+}
+
+#table3 td {
+	vertical-align:top;
 }
 
 .col1 {

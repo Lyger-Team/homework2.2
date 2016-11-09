@@ -16,7 +16,7 @@ body {
 }
 
 table, th, td {
-   border: 1px solid black;
+   border: 1.5px solid black;
 }
 
 #table1 {
@@ -30,10 +30,13 @@ table, th, td {
 }
 
 #table3 {
-	border-spacing: 0.5px;
+	border-spacing: 1px;
 	border="1"
 	text-align: left;
 	vertical-align: 1px;
+	border: 2px outset #3b3b3b;
+	outline: 2px outset #3b3b3b;
+	border-collapse: collapse;
 	margin: auto;
 	width: 65%;
 }
